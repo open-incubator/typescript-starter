@@ -1,0 +1,26 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+
+# Modules
+node_modules
+
+# Distribution files
+dist
+
+# Editor files
+.idea
+
+# ignore yarn.lock
+yarn.lock
